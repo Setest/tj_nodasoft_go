@@ -1,0 +1,14 @@
+!.gitkeep
+
+.env
+!dev.env
+
+/.idea
+/.vscode
+temp/
+cache/
+vendor/
+
+/docker/logs/nginx/*.*
+/docker/logs/php/*.*
+/docker/logs/xdebug/*.*
